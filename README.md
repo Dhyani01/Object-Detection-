@@ -1,4 +1,4 @@
-# Object-Detection-
+# Object-Detection
 Yolov3 based Algorithm that uses deep convolutional neural networks to perform object detection.
  
  
